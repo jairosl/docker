@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-with-docker",
+  "version": "1.0.0",
+  "description": "run node in docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jairosl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
